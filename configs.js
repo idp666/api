@@ -1,4 +1,3 @@
-  
 {
     "forceUpgrade" : false,
     "forceDelay" : false
